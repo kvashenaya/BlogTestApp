@@ -16,3 +16,5 @@ To run the client side:
 1. Open the clientReact directory
 2. run command 'npm i'
 3. run command 'npm start'
+
+After 'create' 'update' or 'delete' post, reload the page to see the result.
